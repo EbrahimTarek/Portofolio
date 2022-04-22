@@ -23,13 +23,6 @@
  - <a href="https://linkedin.com/in/https://www.linkedin.com/in/ebrahim-tarek-7a0743143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ebrahim-tarek-7a0743143/" height="30" width="40" /></a>
  
 
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![linkedin](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandlogos.net%2Flinkedin-icon-vector-download-89492.html&psig=AOvVaw2_BSWKCL0crefpBBoIp6Ei&ust=1650711042874000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLDkhf6_p_cCFQAAAAAdAAAAABAT)](https://www.linkedin.com/in/ebrahim-tarek-7a0743143/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
 
 ## github State
