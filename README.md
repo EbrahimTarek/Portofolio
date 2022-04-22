@@ -1,9 +1,26 @@
 
-#  Data analyst & Business analyst
+Hi, I'm Ebrahim Tarek!
 
-" I want to help others to make the right desicions,data driven desicions"
 
-## projects
+🔭 I’m currently working as Supervising Officer at Armed Forces
 
- - [Hotel data cleaning using SQl](https://github.com/EbrahimTarek/CleaningHoteldata/tree/main/hoteldata)
+🛠️ Technologies and Tools I use:
+Excel & power bi
 
+👨🏻‍💻 Programming Languages
+Sql & python
+
+
+Ebrahim
+
+🌱 I’m currently learning ...
+Flutter Django Django
+
+📱 Find me on...
+Linkedin: Menaim Facebook Badge
+
+YT-Logo  
+
+⚡ Fun fact...
+Watching Anime is the best thing after coding 🤣
+ I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
