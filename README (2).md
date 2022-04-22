@@ -20,6 +20,7 @@
 
  - ebrahimtarek18@gmail.com
  - 01033381074
+ - <a href="https://linkedin.com/in/https://www.linkedin.com/in/ebrahim-tarek-7a0743143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ebrahim-tarek-7a0743143/" height="30" width="40" /></a>
  
 
 ## Badges
