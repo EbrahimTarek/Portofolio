@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ebrahimtarek18@gmail.com**
 
-- ⚡ Fun fact **https://www.google.com/url?sa=i&url=https%3A%2F%2Fmyicons.co%2F&psig=AOvVaw0tacrUywgXQc-Uv5pNNxT9&ust=1650706953517000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPD2zuCwp_cCFQAAAAAdAAAAABADi love connecting with people**
+- ⚡ Fun fact **i love connecting with people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
