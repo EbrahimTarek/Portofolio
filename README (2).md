@@ -18,7 +18,7 @@
 
  - [Real estate expansion](https://app.powerbi.com/groups/me/reports/b5e5d228-13ad-4681-ae18-dd0d1cd98315/ReportSection?ctid=00047949-97c2-46c8-a10e-93e594deddba)
  - [Cars report](https://app.powerbi.com/groups/me/reports/5a4d2090-207c-44c3-ab6a-3c3591d5addf/ReportSection?ctid=00047949-97c2-46c8-a10e-93e594deddba)
- - [Hotel infographic]([Cars report](https://app.powerbi.com/groups/me/reports/5a4d2090-207c-44c3-ab6a-3c3591d5addf/ReportSection?ctid=00047949-97c2-46c8-a10e-93e594deddba))
+ - [Hotel infographic](https://www.behance.net/gallery/142365979/Hotel-Infographic?))
 
 
 
