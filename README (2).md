@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ebrahim Tarek</h1>
-<h3 align="center"> Data analyst & Business analyst</h3>
+<h3 align="center"> Data analyst & BI analyst & power bi developer </h3>
 
 " I want to help others to make the right desicions,data driven desicions"
 
