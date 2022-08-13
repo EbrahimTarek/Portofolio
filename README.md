@@ -13,7 +13,7 @@
 ##  Sql projects
 
  - [Hotel data"cleaning data"](https://github.com/EbrahimTarek/CleaningHoteldata/tree/main/hoteldata)
- - [Bob's Shoes"create data base from scratch"](https://github.com/EbrahimTarek/Bob-shoes)
+ - [Bob's Shoes"create database from scratch"](https://github.com/EbrahimTarek/Bob-shoes)
 
 
 ## Power bi Projects
