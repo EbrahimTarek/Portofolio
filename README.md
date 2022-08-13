@@ -1,7 +1,7 @@
 # Portofolio
 
 <h1 align="center">Hi 👋, I'm Ebrahim Tarek</h1>
-<h3 align="center"> Data analyst & BI analyst & power bi developer </h3>
+<h3 align="center">   BI analyst & Data engineer </h3>
 
 " I want to help others to make the right desicions,data driven desicions"
 
@@ -12,7 +12,8 @@
 
 ##  Sql projects
 
- - [Hotel data cleaning using SQl](https://github.com/EbrahimTarek/CleaningHoteldata/tree/main/hoteldata)
+ - [Hotel data"cleaning data"](https://github.com/EbrahimTarek/CleaningHoteldata/tree/main/hoteldata)
+ - [Bob's Shoes"create data base from scratch"](https://github.com/EbrahimTarek/Bob-shoes)
 
 
 ## Power bi Projects
