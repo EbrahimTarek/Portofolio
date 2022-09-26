@@ -12,8 +12,11 @@
 
 ##  Sql projects
 
+ - [Contact System](https://github.com/EbrahimTarek/Contact_System)
+ - [Bob's Shoes](https://github.com/EbrahimTarek/Bob-shoes)
+ - [8 Weeks SQL Challenge](https://github.com/EbrahimTarek/SQL-Case-studies)
  - [Hotel data"cleaning data"](https://github.com/EbrahimTarek/CleaningHoteldata/tree/main/hoteldata)
- - [Bob's Shoes"create database from scratch"](https://github.com/EbrahimTarek/Bob-shoes)
+
 
 
 ## Power bi Projects
