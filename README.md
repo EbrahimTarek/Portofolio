@@ -1,7 +1,7 @@
 # Portofolio
 
 <h1 align="center">Hi 👋, I'm Ebrahim Tarek</h1>
-<h3 align="center">   BI analyst & Data engineer </h3>
+<h3 align="center">   BI developer & Data engineer </h3>
 
 " I want to help others to make the right desicions,data driven desicions"
 
