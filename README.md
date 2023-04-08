@@ -1,11 +1,9 @@
 # Portofolio
 
 <h1 align="center">Hi 👋, I'm Ebrahim Tarek</h1>
-<h3 align="center">   BI developer & Sql developer </h3>
+<h3 align="center">   BI Consultant & Data Engineer </h3>
 
 " I want to help others to make the right desicions,data driven desicions"
-
-
 
 ## languages and tools
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
