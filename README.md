@@ -20,16 +20,6 @@
  - [Library Management System](https://github.com/EbrahimTarek/Library_Management_System)
 
 
-## Power bi Projects
-
- - [Adventure Works dashboard](https://app.powerbi.com/groups/me/reports/c99271f9-5690-4422-8908-34c2fa2c2b4c/ReportSection421b6fad8e5df9825ff2)
- - [Cars report](https://app.powerbi.com/groups/me/reports/5a4d2090-207c-44c3-ab6a-3c3591d5addf/ReportSection?ctid=00047949-97c2-46c8-a10e-93e594deddba)
- - [Hotel infographic](https://www.behance.net/gallery/142365979/Hotel-Infographic?)
-
-
-
-
-
 ## Connect With me
 
  - ebrahimtarek18@gmail.com
